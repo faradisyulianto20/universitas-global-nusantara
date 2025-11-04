@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Universitasglobalnusantara">
         <activity
+            android:name=".SplashScreen"
+            android:exported="false" />
+        <activity
             android:name=".splashscreen1"
             android:exported="false" />
         <activity
